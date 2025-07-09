@@ -2,7 +2,7 @@
 
 importScripts('https://storage.googleapis.com/workbox-cdn/releases/5.1.2/workbox-sw.js');
 
-const CACHE = "pwabuilder-page-v1";
+const CACHE = "offline_test";
 const offlineFiles = [
     "https://github.com/harddog1/offline_test/index.html",
     "https://github.com/harddog1/offline_test/a.html",
