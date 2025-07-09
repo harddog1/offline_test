@@ -1,0 +1,8 @@
+{
+  "name": "offline_test",
+  "short_name": "offline_test",
+  "start_url": "https://github.com/harddog1/offline_test",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffff00"
+}
