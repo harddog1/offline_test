@@ -4,11 +4,12 @@ importScripts('https://storage.googleapis.com/workbox-cdn/releases/5.1.2/workbox
 
 const CACHE = "offline_test";
 const offlineFiles = [
-    "https://github.com/harddog1/offline_test/index.html",
-    "https://github.com/harddog1/offline_test/a.html",
-    "https://github.com/harddog1/offline_test/b.html",
-    "https://github.com/harddog1/offline_test/index.css",
-    "https://github.com/harddog1/offline_test/index.js",
+    "https://harddog1.github.io/offline_test/index.html",
+    "https://harddog1.github.io/offline_test/a.html",
+    "https://harddog1.github.io/offline_test/b.html",
+    "https://harddog1.github.io/offline_test/index.css",
+    "https://harddog1.github.io/offline_test/index.js",
+
 ];
 
 // 서비스워커 즉시 활성화용
